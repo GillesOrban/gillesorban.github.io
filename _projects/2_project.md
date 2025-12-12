@@ -5,7 +5,7 @@ description: Vortex Optical Demonstrator for Coronagraphic Applications
 img: assets/img/vodca.jpg
 importance: 3
 category: work
-redirect:  https://sites.google.com/view/highcontrastlabs/testbeds/vodca
+redirect: https://sites.google.com/view/highcontrastlabs/testbeds/vodca
 giscus_comments: true
 ---
 

@@ -6,8 +6,6 @@ inline: false
 related_posts: false
 ---
 
-
-
 EXOSHARE - Enhancing European exoplanet science with high angular resolution astronomy on shared observing facilities
 
 An ambitious project, with a large European consortium including the Université de Liège, recently submitted to the European Research Infrastructure 2025 call (HORIZON-INFRA-2025-01-TECH-02)

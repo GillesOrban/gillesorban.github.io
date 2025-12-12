@@ -40,9 +40,6 @@
             - Sub-description 1.
             - Sub-description 2.
 
-
-
-
 - title: Academic Interests
   type: nested_list
   contents:

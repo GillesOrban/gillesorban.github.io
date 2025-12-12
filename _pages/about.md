@@ -13,7 +13,7 @@ profile:
     <p> Quartier Agora </p> 
     <p> Allée du six Août 19c </p> 
     <p> 4000 Liège </p> 
-    <p> Belgium </p> 
+    <p> Belgium </p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
@@ -28,7 +28,6 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-
 
 I am an astronomer, research assistant, engineer and project manager at the University of Liège.
 
