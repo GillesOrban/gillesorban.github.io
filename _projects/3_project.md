@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
-importance: 3
+title: SALTO
+description: Smart Adaptive-optics and Laser guide-star for medium-size Telescopes and Optical communications
+img: assets/img/Salto_Redu_1.jpg
+redirect: https://www.psilab.uliege.be/cms/c_9967822/en/psilab-salto
+importance: 2
 category: work
 ---
 

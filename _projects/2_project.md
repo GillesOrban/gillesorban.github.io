@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
-importance: 2
+title: VODCA bench
+description: Vortex Optical Demonstrator for Coronagraphic Applications
+img: assets/img/vodca.jpg
+importance: 3
 category: work
+redirect:  https://sites.google.com/view/highcontrastlabs/testbeds/vodca
 giscus_comments: true
 ---
 

@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: ELT/METIS
+description: the Mid-infared ELT Imager and Spectrograph for the European Extremely Large Telescope
+img: assets/img/metis.png
 importance: 1
 category: work
+redirect: https://metis.strw.leidenuniv.nl/
 related_publications: true
 ---
 
