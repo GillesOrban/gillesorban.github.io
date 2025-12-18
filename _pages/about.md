@@ -32,6 +32,7 @@ latest_posts:
 I am a research staff at [PSILab](https://www.psilab.uliege.be) within the [STAR](https://www.star.uliege.be) institute at the University of Liège, specializing in astronomical instrumentation, adaptive optics (AO), and high-contrast imaging (HCI) for the direct detection and characterization of exoplanets.
 
 Over the past 15 years, I have contributed to major projects, including
+
 - ELT/METIS: Leading the development of non-common path aberration control strategies and serving as the local project manager for ULiège. My work spans all aspects of METIS' high-contrast imaging modes, from component development and end-to-end HCI simulations, to upcoming performance testing.
 - VLT/ERIS: Technical lead for the focal plane coronagraphs (vortex phase masks in L- and M-bands) and supporting scientific exploitation.
 - SALTO: responsible for the development of the AO instrument, a robust laser-guided AO demonstrator for astronomy, space debris tracking, and optical telecommunications.
