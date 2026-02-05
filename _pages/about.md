@@ -38,7 +38,7 @@ Over the past 15 years, I have contributed to major projects, including
 - SALTO: responsible for the development of the AO instrument, a robust laser-guided AO demonstrator for astronomy, space debris tracking, and optical telecommunications.
 - LBT/ARGOS: Development and on-sky commissioning of the laser-guided ground-layer AO system, including wavefront sensor design and integration.
 
-My research combines theoretical modeling, experimental validation, and on-sky deployment, with a strong emphasis on focal plane wavefront sensing, deep learning, and reinforcement learning techniques. I also have a background in extragalactic astronomy, studying the co-evolution of supermassive black holes and their host galaxies using near-infrared integral field spectroscopy.
+My research combines theoretical modeling, experimental validation, and on-sky deployment, with a strong emphasis on focal plane wavefront sensing, using various deep learning techniques. I also have a background in extragalactic astronomy, studying the co-evolution of supermassive black holes and their host galaxies using near-infrared integral field spectroscopy.
 
 I hold a PhD in Astronomy from the Max Planck Institute for Extraterrestrial Physics (2014). Since 2024, I have been appointed as a permanent researcher at ULiège, where I focus on high-contrast imaging and contribute to the development of next-generation instruments like ELT/METIS.
 
