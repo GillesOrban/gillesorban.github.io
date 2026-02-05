@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Exciting week at the [Spirit Of Lyot](https://conference.ipac.caltech.edu/SpiritofLyot6/) conference in Pasadena
+Participating the [Spirit Of Lyot](https://conference.ipac.caltech.edu/SpiritofLyot6/) conference in Pasadena
