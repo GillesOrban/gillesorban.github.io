@@ -405,6 +405,9 @@ ninja.data = [{
             },},{id: "news-our-salto-adaptive-optics-module-is-coming-back-from-redu-space-center-to-our-lab-at-uliege",
           title: 'Our SALTO adaptive optics module is coming back from Redu Space Center to...',
           description: "",
+          section: "News",},{id: "news-exciting-week-at-the-spirit-of-lyot-conference-in-pasadena",
+          title: 'Exciting week at the Spirit Of Lyot conference in Pasadena',
+          description: "",
           section: "News",},{id: "projects-elt-metis",
           title: 'ELT/METIS',
           description: "the Mid-infared ELT Imager and Spectrograph for the European Extremely Large Telescope",
@@ -453,7 +456,7 @@ ninja.data = [{
         title: 'ResearchGate',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.researchgate.net/profile/https://www.researchgate.net/profile/Gilles-Orban-De-Xivry/", "_blank");
+          window.open("https://www.researchgate.net/profile/Gilles-Orban-De-Xivry/", "_blank");
         },
       },{
         id: 'social-scholar',
