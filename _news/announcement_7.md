@@ -8,4 +8,4 @@ related_posts: false
 
 Lecturing optical turbulence and [AO simulations](https://github.com/GillesOrban/ao_school) at the NARIT AO school for local researchers and engineers.
 
-Participating, as SOC member and presenter, to the [NARIT wavefront sensor workshop](https://indico.narit.or.th/event/230/). Presenting our focal plane wavefront sensing developments for ELT/METIS
+Participating, as SOC member and presenter, to the [NARIT wavefront sensor workshop](https://indico.narit.or.th/event/230/). Presenting our focal plane wavefront sensing developments for ELT/METIS.
