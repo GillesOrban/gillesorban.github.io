@@ -47,7 +47,7 @@ I hold a PhD in Astronomy from the Max Planck Institute for Extraterrestrial Phy
 One of my current research interest is to tackle one of the big hurdles of direct imaging : quasi-static aberrations preventing us to reach the fundamental limit for ground-based high contrast imaging. More specifically, I currently focus on the development of focal plane wavefront sensing solutions using deep learning techniques.
 Besides instrumentation, I have had various interests in astronomy, ranging from the direct detection and characterization of exoplanets, but also such as nearby Active Galactic Nuclei (AGN) and their interplay with galactic evolution, and exotic gravitational lenses. -->
 
-For my curriculum vitae, click [here](assets/pdf/CV_GOX_medium_2025.pdf) (last update: July 2025).
+For my curriculum vitae, click [here](assets/pdf/CV_GOX_medium_2026.pdf) (last update: July 2026).
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. -->
 
