@@ -408,6 +408,14 @@ ninja.data = [{
           section: "News",},{id: "news-participating-to-the-spirit-of-lyot-conference-in-pasadena",
           title: 'Participating to the Spirit Of Lyot conference in Pasadena',
           description: "",
+          section: "News",},{id: "news-participating-to-the-narit-ao-school-and-the-wfs-workshop-in-chiang-mai-thailand",
+          title: 'Participating to the NARIT AO school and the WFS workshop in Chiang Mai,...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_7/";
+            },},{id: "news-welcome-to-niyati-desai-and-lorenzo-könig-joining-psilab-as-a-postdocs",
+          title: 'Welcome to Niyati Desai and Lorenzo König, joining PSILab as a postdocs.',
+          description: "",
           section: "News",},{id: "projects-elt-metis",
           title: 'ELT/METIS',
           description: "the Mid-infared ELT Imager and Spectrograph for the European Extremely Large Telescope",
