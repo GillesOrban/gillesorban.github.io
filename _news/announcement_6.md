@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Welcome to Niyati Desai and Lorenzo König, joining PSILab as a postdocs.
+Welcome to Niyati Desai and Lorenzo König, joining PSILab as postdocs.
